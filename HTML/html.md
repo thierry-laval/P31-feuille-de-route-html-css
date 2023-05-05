@@ -48,4 +48,4 @@ Si vous écrivez une bonne page HTML, le référencement et l'accessibilité ser
 
 **[⬆ Retour en haut](#auteur)**
 
-#### Revenir au choix de la page HTML ou CSS [en cliquant ici](summary.md)
+#### Revenir au choix de la page HTML ou CSS [en cliquant ici](./../summary.md)
