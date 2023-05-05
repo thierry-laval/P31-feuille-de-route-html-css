@@ -48,13 +48,12 @@ CSS traite chaque élément HTML comme sa propre boîte, ce qui est généraleme
 Le positionnement vous donne beaucoup de souplesse et de pouvoir sur la présentation visuelle d'une page. Il est bon de se rappeler que, quelle que soit la position des éléments, le balisage HTML sous-jacent doit être organisé et avoir un sens lorsqu'il est lu de haut en bas. C'est ainsi que les utilisateurs souffrant de déficiences visuelles (qui utilisent des dispositifs d'assistance tels que des lecteurs d'écran) accèdent à votre contenu.
 
 Cette explication est extraite de [freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position/).
-[freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position/).
 
 ### Relative
 
 Lorsque la position d'un élément est définie comme relative, elle vous permet de spécifier comment CSS doit le déplacer par rapport à sa position actuelle dans le flux normal de la page. Elle est associée aux propriétés de décalage CSS de gauche ou de droite, et de haut ou de bas. Ces propriétés indiquent le nombre de pixels, de pourcentages ou d'ems qui doivent éloigner l'élément de sa position normale. L'exemple suivant éloigne le paragraphe de 10 pixels du bas de la page :
 
-```
+```css
 p {
   position: relative;
   bottom: 10px;
