@@ -111,4 +111,4 @@ Vous pouvez effectuer une recherche sur les requêtes médias sur [MDN](https://
 
 **[⬆ Retour en haut](#auteur)**
 
-#### Revenir au choix de la page HTML ou CSS [en cliquant ici](summary.md)
+#### Revenir au choix de la page HTML ou CSS [en cliquant ici](./../summary.md)
