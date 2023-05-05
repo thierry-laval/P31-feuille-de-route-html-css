@@ -25,7 +25,7 @@ Ce dépôt me sert d'étude, un exemple de code et un résumé des sujets import
 Il est basé sur la feuille de route devops de Kamran Ahmed (kamranahmedse)
 https://github.com/kamranahmedse/developer-roadmap
 
-Ce référentiel a été créé en mars 2019 et maintenu depuis lors. Certains contenus de ce référentiel ne fonctionnent mais cela peut être un bon début.
+Ce référentiel a été créé en mars 2019 et maintenu depuis lors.
 
 #### Vous pouvez commencer [ici](summary.md)
 
