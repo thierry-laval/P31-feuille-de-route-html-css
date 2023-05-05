@@ -1,15 +1,27 @@
-# CSS
+# ![left 100%](https://raw.githubusercontent.com/thierry-laval/archives/master/images/logo-portfolio.png "Un bien beau logo !")
+
+## Auteur
+
+👤 &nbsp; **Thierry LAVAL** [🇫🇷 Contactez moi 🇬🇧](<contact@thierrylaval.dev>)
+
+* Github: [@Thierry Laval](https://github.com/thierry-laval)
+* LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
+* Visitez ==> 🏠 [Site Web](https://thierrylaval.dev)
+
+***
+
+## 📎 Page pour le CSS
 
 Les feuilles de style en cascade (CSS) sont le code que vous utilisez pour styliser votre page web. Il indique au navigateur comment afficher le texte et les autres contenus que vous écrivez en HTML.
 
-- Il existe trois façons principales d'appliquer un style CSS.
+* Il existe trois façons principales d'appliquer un style CSS.
   * Vous pouvez appliquer des styles en ligne directement aux éléments HTML à l'aide de l'attribut style.
   * Vous pouvez également placer des règles CSS dans les balises de style d'un document HTML.
   * Vous pouvez écrire des règles CSS dans une feuille de style externe, puis faire référence à ce fichier dans le document HTML.
 
 Préférez toujours la troisième option.
 
-## Apprendre les bases
+### Apprendre les bases
 
 Vous pouvez rechercher les bases de CSS sur [MDN](https://developer.mozilla.org/fr/) pour apprendre les bases, ou accéder à [ici](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics) pour voir les bases de CSS dans la page MDN.
 
@@ -24,7 +36,7 @@ L'image ci-dessous résume le sujet :
 
 ![](images/definitive-guide-to-css-styling-order.jpg)
 
-## Faire des mises en page
+### Faire des mises en page
 
 Vous pouvez rechercher la mise en page CSS sur [MDN](https://developer.mozilla.org/fr/) pour apprendre les bases de la mise en page, ou accéder à [ici](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout) pour la voir dans la page MDN.
 
@@ -38,7 +50,7 @@ Le positionnement vous donne beaucoup de souplesse et de pouvoir sur la présent
 Cette explication est extraite de [freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position/).
 [freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position/).
 
-#### Relative
+### Relative
 
 Lorsque la position d'un élément est définie comme relative, elle vous permet de spécifier comment CSS doit le déplacer par rapport à sa position actuelle dans le flux normal de la page. Elle est associée aux propriétés de décalage CSS de gauche ou de droite, et de haut ou de bas. Ces propriétés indiquent le nombre de pixels, de pourcentages ou d'ems qui doivent éloigner l'élément de sa position normale. L'exemple suivant éloigne le paragraphe de 10 pixels du bas de la page :
 
@@ -53,7 +65,7 @@ Le fait de changer la position d'un élément en position relative ne le retire 
 
 Cette explication est extraite de [freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/change-an-elements-relative-position/).
 
-#### Absolute
+### Absolute
 
 Verrouille l'élément en place par rapport à son conteneur parent. Contrairement à la position relative, cette position retire l'élément du flux normal du document, de sorte que les éléments environnants l'ignorent. Les propriétés CSS de décalage (haut ou bas et gauche ou droite) sont utilisées pour ajuster la position.
 
@@ -61,7 +73,7 @@ L'élément sera verrouillé par rapport à son ancêtre le plus proche.
 
 Cette explication est extraite de [freecodecamp](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design/lock-an-element-to-its-parent-with-absolute-positioning).
 
-#### Fixed
+### Fixed
 
 Verrouille l'élément en place par rapport à la fenêtre du navigateur. Contrairement à la position relative, cette position retire l'élément du flux normal du document, de sorte que les éléments environnants l'ignorent. Les propriétés de décalage CSS (haut ou bas et gauche ou droite) sont utilisées pour ajuster la position.
 
@@ -77,12 +89,26 @@ Les éléments flottants sont retirés du flux normal d'un document et poussés 
 
 ### Display
 
+...
+
 ### Box Model
+
+...
 
 ### CSS Grid
 
+...
+
 ### Flex Box
 
-## Media Queries
+...
+
+### Media Queries
+
+...
 
 Vous pouvez effectuer une recherche sur les requêtes médias sur [MDN](https://developer.mozilla.org/fr/) pour apprendre les bases de la mise en page, ou accéder à [ici](https://developer.mozilla.org/fr/docs/Web/CSS/Media_Queries) pour voir la page MDN.
+
+**[⬆ Retour en haut](#auteur)**
+
+#### Revenir au choix de la page HTML ou CSS [en cliquant ici](summary.md)

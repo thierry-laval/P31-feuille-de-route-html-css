@@ -18,7 +18,7 @@ _`Début du projet le 05/05/2023`_
 
 ***
 
-### feuille de route my-frontend
+### Feuille de route HTML & CSS
 
 Ce dépôt me sert d'étude, un exemple de code et un résumé des sujets importants.
 
