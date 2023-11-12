@@ -51,6 +51,6 @@ Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
 <!--[This is an image](https://myoctocat.com/)-->
 
-![Octocat Image](/CSS/images/octocat.png){:height="300"}
+![Octocat Image](/CSS/images/octocat.png){:height="100"}
 
 **[⬆ Retour en haut](#auteur)**
