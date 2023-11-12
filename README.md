@@ -23,7 +23,7 @@ _`Début du projet le 05/05/2023`_
 Ce dépôt me sert d'étude, un exemple de code et un résumé des sujets importants.
 
 Il est basé sur la feuille de route devops de Kamran Ahmed (kamranahmedse)
-https://github.com/kamranahmedse/developer-roadmap
+<https://github.com/kamranahmedse/developer-roadmap>
 
 Ce référentiel a été créé en mars 2019 et maintenu depuis lors.
 
@@ -51,6 +51,6 @@ Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
 <!--[This is an image](https://myoctocat.com/)-->
 
-<img src="/CSS/images/octocat.png" height="300" />
+![Octocat Image](/CSS/images/octocat.png){:height="300"}
 
 **[⬆ Retour en haut](#auteur)**
