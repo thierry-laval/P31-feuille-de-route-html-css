@@ -10,7 +10,7 @@
 
 ***
 
-### 📎 Projet 31 - Il est utilisé pour définir la signification et la structure d'une page web et de son contenu
+### 📎 Projet 31 - Utilisé pour définir la signification et la structure d'une page web et de son contenu
 
 ![left 100%](/CSS/images/peinture.jpg?raw=true)
 
