@@ -51,6 +51,6 @@ Donnez une ⭐️ &nbsp; si ce projet vous a plu !
 
 <!--[This is an image](https://myoctocat.com/)-->
 
-<img src="/CSS/images/octocat.png"  alt="Octocat Image" height="300" />
+<img src="/CSS/images/octocat.png"  alt="Octocat Image" height="300" title="je vous aime" />
 
 **[⬆ Retour en haut](#auteur)**
