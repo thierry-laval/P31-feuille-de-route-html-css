@@ -9,4 +9,3 @@ Lorsque j'ai eu des doutes, j'ai consulté Google et essayé d'écrire l'explica
 ## [CSS](CSS/css.md)
 
 #### Revenir au Readme [en cliquant ici](README.md)
-
